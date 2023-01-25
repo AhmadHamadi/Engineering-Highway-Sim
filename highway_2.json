@@ -1,0 +1,61 @@
+{
+    "highway": {
+        "num_lanes": 3,
+        "lane_width": 40,
+        "origin_point": "50,870",
+        "lane_0": {
+            "segment_num": 5,
+            "origin_point": "50,870",
+            "segments": {
+                "segment_0": "STRAIGHT,50,870,75,695",
+                "segment_1": "CURVED,75,695,121,545,185,527",
+                "segment_2": "STRAIGHT,185,527,429,442",
+                "segment_3": "STRAIGHT,429,442,597,385",
+                "segment_4": "CURVED,597,385,745,344,685,285"
+            }
+        },
+        "lane_1": {
+            "segment_num": 5,
+            "origin_point": "90,870",
+            "segments": {
+                "segment_0": "STRAIGHT,90,870,115,695",
+                "segment_1": "CURVED,115,695,149,576,201,553",
+                "segment_2": "STRAIGHT,201,553,438,467",
+                "segment_3": "STRAIGHT,438,467,606,408",
+                "segment_4": "CURVED,606,408,779,354,725,285"
+            }
+        },
+        "lane_2": {
+            "segment_num": 5,
+            "origin_point": "130,870",
+            "segments": {
+                "segment_0": "STRAIGHT,130,870,155,695",
+                "segment_1": "CURVED,155,695,177,601,213,584",
+                "segment_2": "STRAIGHT,213,584,448,494",
+                "segment_3": "STRAIGHT,448,494,614,435",
+                "segment_4": "CURVED,614,435,817,358,763,282"
+            }
+        },
+        "num_ramps": 2,
+        "onramp_0": {
+            "attaching_lane" : 2,
+            "segment_num": 3,
+            "origin_point": "211,872",
+            "segments": {
+                "segment_0": "CURVED,211,872,175,825,194,732",
+                "segment_1": "STRAIGHT,194,732,225,624",
+                "segment_2": "CURVED,225,624,234,593,231,575"
+            }
+        },
+        "onramp_1": {
+            "attaching_lane" : 2,
+            "segment_num": 2,
+            "origin_point": "580,527",
+            "segments": {
+                "segment_0": "STRAIGHT,580,527,746,414",
+                "segment_1": "CURVED,746,414,797,376,768,340"
+            }
+        }
+    },
+    "_comment": "Self-driving #26!!!!"
+}

@@ -1,0 +1,27 @@
+{
+    "highway": {
+        "num_lanes": 3,
+        "lane_width": 40,
+        "origin_point": "50,870",
+        "lane_0": {
+            "segment_num": 1,
+            "segments": {
+                "segment_0": "STRAIGHT,50,870,102,628"
+            }
+        },
+        "lane_1": {
+            "segment_num": 1,
+            "segments": {
+                "segment_0": "STRAIGHT,90,870,142,628"
+            }
+        },
+        "lane_2": {
+            "segment_num": 1,
+            "segments": {
+                "segment_0": "STRAIGHT,130,870,182,628"
+            }
+        },
+        "num_ramps": 0
+    },
+    "_comment": "Self-driving #26!!!!"
+}

@@ -1,0 +1,77 @@
+{
+    "highway": {
+        "num_lanes": 4,
+        "lane_width": 50,
+        "origin_point": "33,708",
+        "lane_0": {
+            "segment_num": 11,
+            "origin_point": "33,708",
+            "segments": {
+                "segment_0": "STRAIGHT,33,708,167,708",
+                "segment_1": "CURVED,167,708,233,700,258,656",
+                "segment_2": "STRAIGHT,258,656,457,344",
+                "segment_3": "CURVED,457,344,506,265,488,237",
+                "segment_4": "CURVED,488,237,449,120,621,77",
+                "segment_5": "CURVED,621,77,700,47,757,90",
+                "segment_6": "STRAIGHT,757,90,855,165",
+                "segment_7": "CURVED,855,165,916,189,984,181",
+                "segment_8": "STRAIGHT,984,181,1559,153",
+                "segment_9": "CURVED,1559,153,1684,149,1746,183",
+                "segment_10": "STRAIGHT,1746,183,1915,280"
+            }
+        },
+        "lane_1": {
+            "segment_num": 11,
+            "origin_point": "33,758",
+            "segments": {
+                "segment_0": "STRAIGHT,33,758,167,758",
+                "segment_1": "CURVED,167,758,259,750,286,686",
+                "segment_2": "STRAIGHT,286,686,484,368",
+                "segment_3": "CURVED,484,368,533,300,521,228",
+                "segment_4": "CURVED,521,228,489,136,636,102",
+                "segment_5": "CURVED,636,102,698,83,752,127",
+                "segment_6": "STRAIGHT,752,127,835,191",
+                "segment_7": "CURVED,835,191,908,227,987,217",
+                "segment_8": "STRAIGHT,987,217,1559,188",
+                "segment_9": "CURVED,1559,188,1672,187,1742,221",
+                "segment_10": "STRAIGHT,1742,221,1912,319"
+            }
+        },
+        "lane_2": {
+            "segment_num": 11,
+            "origin_point": "33,808",
+            "segments": {
+                "segment_0": "STRAIGHT,33,808,167,808",
+                "segment_1": "CURVED,167,808,269,800,310,717",
+                "segment_2": "STRAIGHT,310,717,509,394",
+                "segment_3": "CURVED,509,394,570,312,554,222",
+                "segment_4": "CURVED,554,222,543,153,645,134",
+                "segment_5": "CURVED,645,134,691,126,737,159",
+                "segment_6": "STRAIGHT,737,159,811,219",
+                "segment_7": "CURVED,811,219,897,269,989,255",
+                "segment_8": "STRAIGHT,989,255,1561,224",
+                "segment_9": "CURVED,1561,224,1667,224,1735,266",
+                "segment_10": "STRAIGHT,1735,266,1913,371"
+            }
+        },
+        "lane_3": {
+            "segment_num": 11,
+            "origin_point": "33,858",
+            "segments": {
+                "segment_0": "STRAIGHT,33,858,167,858",
+                "segment_1": "CURVED,167,858,269,850,338,745",
+                "segment_2": "STRAIGHT,338,745,539,415",
+                "segment_3": "CURVED,539,415,604,324,595,239",
+                "segment_4": "CURVED,595,239,582,194,650,173",
+                "segment_5": "CURVED,650,173,690,168,727,200",
+                "segment_6": "STRAIGHT,727,200,789,253",
+                "segment_7": "CURVED,789,253,886,315,989,305",
+                "segment_8": "STRAIGHT,989,305,1561,274",
+                "segment_9": "CURVED,1561,274,1655,267,1717,307",
+                "segment_10": "STRAIGHT,1717,307,1913,421"
+            }
+        },
+        "num_ramps": 0
+    },
+    "_comment": "Self-driving #26!!!!"
+}
